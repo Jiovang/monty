@@ -1,2 +1,1 @@
 # monty
-My monty project
